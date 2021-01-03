@@ -1,0 +1,121 @@
+h1,h2,h3,h4,h5{
+    font-family: 'Noto Sans', sans-serif;
+}
+body span{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#bg{
+    background: url(../img/4.jpg);
+    padding: 300px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.carousel-indicators li{
+    margin-bottom: -100%;
+}
+.this h1{
+ padding-bottom: 40px;
+ color: white;
+}
+.this p{
+    color: white;
+    padding-bottom: 40px;
+    font-size: 15px;
+}
+.this button{
+    background-color: rgb(70, 255, 178);
+    margin-bottom:300px  ;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.hi img{
+    width: 100%;
+}
+.hl{
+    background-color: rgb(209, 255, 236);
+}
+section{
+    margin-top: 80px;
+    overflow: hidden;
+}
+.our{
+    padding: 30px 0;
+    box-shadow: 2px 2px 3px 3px #ddd;
+    transition: 0.4s ease-in-out;
+    
+}
+.our:hover{
+    background-color: rgb(70, 255, 178);
+}
+.our i{
+    font-size: 50px;
+}
+.ic i{
+    padding: 4px 4px;
+    background-color: rgb(70, 255, 178);
+    margin-top: 40px;
+}
+
+#rd{
+    background: rgb(70, 255, 178);
+}
+
+#mm{
+    background-color: rgb(70, 255, 178);
+}
+#mm i{
+    font-size: 70px;
+}
+.con{
+    font-size: 70px;
+    color: rgb(70, 255, 178);
+
+}
+
+#cl{
+    background-color: rgb(173, 255, 221);
+    padding: 100px 0;
+}
+.one{
+    position: relative;
+    margin-top: -90px;
+    overflow: hidden;
+}
+
+.two{
+    position: relative;
+    margin-top: -70px;
+    overflow: hidden;
+}
+.three{
+    position: relative;
+    margin-top: -50px;
+    overflow: hidden;
+}
+.hlp{
+    margin-left:231px;
+
+    margin-bottom: 20px;
+}
+
+#over{
+    background-color: rgb(145, 255, 209);
+    padding: 100px 0;
+}
+span{
+    color: rgb(70, 255, 178);
+}
+#over i{
+    font-size: 30px ;
+    padding-left: 5px ;
+    
+}
